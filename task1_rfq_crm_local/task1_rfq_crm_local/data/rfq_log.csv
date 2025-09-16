@@ -1,0 +1,7 @@
+timestamp,rfq_id,company,client_name,incoterms,delivery_city,items
+2025-09-15T22:20:00.284682,1024,Gulf Engineering,Omar Al-Harthy,DAP,Dammam,"[{""sku"": ""ALR-SL-90W"", ""qty"": 2}, {""sku"": ""ALR-OBL-12V"", ""qty"": 1}]"
+2025-09-15T22:20:00.330677,2077,Procure Co.,Eng. Fatimah,EXW,Riyadh,"[{""sku"": ""ALR-SL-120W"", ""qty"": 5}, {""sku"": ""ALR-BAT-12V"", ""qty"": 10}]"
+2025-09-16T12:49:11.101363,1024,Gulf Engineering,Omar Al-Harthy,DAP,Dammam,"[{""sku"": ""ALR-SL-90W"", ""qty"": 2}, {""sku"": ""ALR-OBL-12V"", ""qty"": 1}]"
+2025-09-16T12:49:11.129816,2077,Procure Co.,Eng. Fatimah,EXW,Riyadh,"[{""sku"": ""ALR-SL-120W"", ""qty"": 5}, {""sku"": ""ALR-BAT-12V"", ""qty"": 10}]"
+2025-09-16T22:47:59.981886,1024,Gulf Engineering,Omar Al-Harthy,DAP,Dammam,"[{""sku"": ""ALR-SL-90W"", ""qty"": 2}, {""sku"": ""ALR-OBL-12V"", ""qty"": 1}]"
+2025-09-16T22:48:00.145435,2077,Procure Co.,Eng. Fatimah,EXW,Riyadh,"[{""sku"": ""ALR-SL-120W"", ""qty"": 5}, {""sku"": ""ALR-BAT-12V"", ""qty"": 10}]"

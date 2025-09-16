@@ -1,0 +1,27 @@
+Subject: RFQ-1024: Streetlights DAP Dammam
+From: Omar <omar@example.com>
+To: sales@exampleco.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ"
+
+--XYZ
+Content-Type: text/plain; charset="utf-8"
+
+Hello Team,
+
+Please quote the following:
+ALR-SL-90W x 2
+ALR-OBL-12V x 1
+
+Incoterms: DAP
+Company: Gulf Engineering
+
+Regards,
+Omar Al-Harthy
+
+--XYZ
+Content-Type: application/pdf
+Content-Disposition: attachment; filename="specs.pdf"
+
+%PDF-1.4 fakepdfdata
+--XYZ--

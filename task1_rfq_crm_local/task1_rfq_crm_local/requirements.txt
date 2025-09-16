@@ -1,0 +1,3 @@
+# No external packages required. Uses Python standard library only.
+# If you prefer pandas CSV appends, add:
+# pandas
